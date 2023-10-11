@@ -1,6 +1,6 @@
-# Climate Change API
+# Blog Stats Api
 
-The Climate Change API is a Node.js Express backend that allows you to manage climate data and calculate climate change based on various parameters such as temperature, humidity, and chances of rain. This README provides instructions on setting up and running the API.
+The Blog Stats Api is a Node.js Express backend that allows you to analyze data and cache data
 
 ## Table of Contents
 
